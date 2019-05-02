@@ -5,7 +5,7 @@
   <h1 align="center">NgAdd</h1>
     <p align="center">Supercharge your angular app with a single command.</p>
 </p>
-<div align="center">
+<div>
   
   <h3>Submitting a request:</h3>
   <p>when opening an issue to request the addition of a library, please provide the following:</p>
@@ -14,3 +14,4 @@
     <li>Library ngadd command</li>
   <li>Library logo in SVG format</li>
   </ul>
+</div>
