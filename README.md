@@ -7,3 +7,10 @@
 </p>
 <div align="center">
   
+  <h3>Submitting a request:</h3>
+  <p>when opening an issue to request the addition of a library, please provide the following:</p>
+<ul>
+  <li>Link to library repository</li>
+    <li>Library ngadd command</li>
+  <li>Library logo in SVG format</li>
+  </ul>
