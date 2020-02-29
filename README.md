@@ -5,16 +5,18 @@
   <h1 align="center">NgAdd</h1>
     <p align="center">Supercharge your angular app with a single command.</p>
 </p>
+
 <div>
-  
   <h3>Submitting a request:</h3>
    <p>to request the addition of a library: </p>
-  <li>🌟 <ins>don't forget to star the repo</ins></li>
-  <p>then open up an issue & provide the following:</p>
-<ul>
-  <li><ins>Link to library repository</ins></li>
-    <li><ins>Library ngadd command</ins></li>
-  <li><ins>Library logo in SVG format</ins></li>
+  
+- 🌟 <ins>don't forget to star the repo</ins>
+  
+ <p>then open up an issue & provide the following:</p>
+  
+- <ins>Link to library repository</ins>
 
-  </ul>
+- <ins>Library ngadd command</ins>
+
+- <ins>Library logo in SVG format</ins>
 </div>
