@@ -8,10 +8,13 @@
 <div>
   
   <h3>Submitting a request:</h3>
-  <p>when opening an issue to request the addition of a library, please provide the following:</p>
+   <p>to request the addition of a library: </p>
+  <li>🌟 <ins>don't forget to star the repo</ins></li>
+  <p>then open up an issue & provide the following:</p>
 <ul>
-  <li>Link to library repository</li>
-    <li>Library ngadd command</li>
-  <li>Library logo in SVG format</li>
+  <li><ins>Link to library repository</ins></li>
+    <li><ins>Library ngadd command</ins></li>
+  <li><ins>Library logo in SVG format</ins></li>
+
   </ul>
 </div>
